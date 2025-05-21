@@ -27,6 +27,52 @@ A modern Point of Sale (POS) system built with React and TypeScript, designed to
   - Revenue analytics
   - Performance metrics
 
+## How to Use the Application
+
+### Sales Management
+1. **Making a Sale**
+   - Click "New Sale" to start a new transaction
+   - Search for products using the search bar or browse categories
+   - Add items to cart by clicking the "+" button
+   - Adjust quantities using the +/- buttons
+   - Select payment method (Cash, Card, or Digital Payment)
+   - Complete the sale by clicking "Process Payment"
+
+2. **Viewing Sales History**
+   - Navigate to "Sales History" from the main menu
+   - Filter sales by date range, payment method, or staff member
+   - View detailed information for each transaction
+   - Export sales data to CSV or PDF
+
+### Inventory Management
+1. **Managing Products**
+   - Access "Products" from the main menu
+   - Add new products with details like name, price, and stock level
+   - Edit existing product information
+   - Set up categories for better organization
+   - Enable low stock alerts
+
+2. **Stock Control**
+   - Monitor current stock levels in the inventory dashboard
+   - Receive notifications for low stock items
+   - Update stock quantities manually or through bulk import
+   - Track stock movement history
+
+### User Management
+1. **Staff Access**
+   - Create staff accounts with specific roles (Admin, Manager, Cashier)
+   - Set permissions for each role
+   - Monitor staff performance and sales
+   - Manage staff schedules and shifts
+
+### Reports & Analytics
+1. **Viewing Reports**
+   - Access various reports from the "Reports" section
+   - Generate daily, weekly, or monthly sales reports
+   - View inventory status reports
+   - Analyze revenue trends and performance metrics
+   - Export reports in multiple formats
+
 ## Technologies
 
 - **Frontend Framework**: React 18
